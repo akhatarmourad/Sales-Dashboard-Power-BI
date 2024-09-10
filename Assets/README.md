@@ -2,7 +2,7 @@
 
 A Power BI dashboard for X Company that visualizes sales data from SQL Server. It offers insights into sales performance, trends, and metrics with interactive charts and filters for easy analysis.
 
-![Power BI](./Assets/project-banner.png)
+![Power BI](./project-banner.png)
 
 ## Usage
 
@@ -29,13 +29,13 @@ This project uses Microsoft-provided warehouse data, optimized for simplified pr
 
 Interactive Demonstration of the Power BI Dashboard
 
-![Power Bi Demo](./Assets/Power-BI.png)
+![Power Bi Demo](./Power-BI.png)
 
 Publishing the dashboard in Power BI Workspace
 
-![Published Dashboard](./Assets/Publish-to-Workspace.png)
+![Published Dashboard](./Publish-to-Workspace.png)
 
-![Power BI Workspace](./Assets/Overview-Workspace.png)
+![Power BI Workspace](./Overview-Workspace.png)
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akhatarmourad.github.io/portfolio/)
