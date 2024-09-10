@@ -21,6 +21,10 @@ This project provides a comprehensive sales analysis solution through the follow
 - Visualization: Leverages Power BI and DAX for creating interactive visualizations and detailed insights.
 
 
+## Dataset Description
+
+This project uses Microsoft-provided warehouse data, optimized for simplified processing and analysis.
+
 ## Demo
 
 Interactive Demonstration of the Power BI Dashboard
@@ -29,9 +33,9 @@ Interactive Demonstration of the Power BI Dashboard
 
 Publishing the dashboard in Power BI Workspace
 
-![Power BI Workspace](./Overview-Workspace.png)
-
 ![Published Dashboard](./Publish-to-Workspace.png)
+
+![Power BI Workspace](./Overview-Workspace.png)
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akhatarmourad.github.io/portfolio/)
