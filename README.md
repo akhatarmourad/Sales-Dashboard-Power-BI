@@ -27,6 +27,18 @@ This project uses Microsoft-provided warehouse data, optimized for simplified pr
 
 ## Demo
 
+Implementing SQL query to extract key data from the Customers Dimension table
+
+![SQL Server](./Assets/Customers_SQL.png)
+
+Results of the SQL query showcasing the relevant customer information
+
+![SQL Server](./Assets/Customers_Dim_Table.png)
+
+Exporting the resuting tables as a CSV file for further analysis (ex: sales fact table)
+
+![SQL Server](./Assets/Sales_Fact_Table.png)
+
 Interactive Demonstration of the Power BI Dashboard
 
 ![Power Bi Demo](./Assets/Power-BI.png)
